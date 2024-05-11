@@ -1,0 +1,58 @@
+{
+  "invite" :[
+    {
+      "nomMonsieur": "Nyandjou Yannick",
+      "nomMadame": "Nyandjou",
+      "couple": true
+    },
+    {
+      "nomMonsieur": "Talla Fotso Patrick",
+      "nomMadame": "Talla",
+      "couple": true
+    },
+    {
+      "nomMonsieur": "Kuate Fotso Jonathan",
+      "nomMadame": "Kuate",
+      "couple": true
+    },
+    {
+      "nomMonsieur": "Ngongang Victor",
+      "nomMadame": "Ngongang",
+      "couple": true
+    },
+    {
+      "nomMadame": "Foppa",
+      "prenomMadame": "Marceline",
+      "couple": false,
+      "femme": true
+    },
+    {
+      "nomMadame": "Touassac",
+      "prenomMadame": "Jeannette",
+      "couple": false,
+      "femme": true
+    },
+    {
+      "nomMonsieur": "Christophe",
+      "prenomMonsieur": "Lamere",
+      "couple": false,
+      "femme": false
+    },
+    {
+      "nomMonsieur": "Choudjem",
+      "prenomMonsieur": "Arnold",
+      "couple": false,
+      "femme": false
+    },
+    {
+      "nomMonsieur": "Tala Eric",
+      "nomMadame": "Tala",
+      "couple": true
+    },
+    {
+      "nomMonsieur": "Bikonte Idriss",
+      "nomMadame": "Bikonte",
+      "couple": true
+    }
+  ]
+}
